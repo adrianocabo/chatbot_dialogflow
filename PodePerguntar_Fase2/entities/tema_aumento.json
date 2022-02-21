@@ -1,0 +1,9 @@
+{
+  "id": "0e1bc372-6a88-4254-a3a2-4d7b5a6418b5",
+  "name": "tema_aumento",
+  "isOverridable": true,
+  "isEnum": false,
+  "isRegexp": false,
+  "automatedExpansion": false,
+  "allowFuzzyExtraction": false
+}

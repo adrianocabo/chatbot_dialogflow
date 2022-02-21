@@ -1,0 +1,45 @@
+{
+  "id": "35ed8a07-6c44-4351-b676-2bb229028833",
+  "parentId": "9fe83a9d-9ba5-47da-8690-5f5162be1a7c",
+  "rootParentId": "645ab511-abfd-44a3-aada-3380d55db548",
+  "name": "I15",
+  "auto": true,
+  "contexts": [
+    "P0-G0-yes-yes-A-followup",
+    "yes"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "P0.P0-G0.P0-G0-yes.P0-G0-yes-yes.P0-G0-yes-yes-A.P0-G0-yes-yes-A-yes",
+      "affectedContexts": [
+        {
+          "name": "yes",
+          "lifespan": 1
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "pt-br",
+          "speech": [
+            "O aborto espontâneo, na maioria das vezes, ocorre por conta da má formação do feto e não por questões dos pais.\n\nAssim, algumas mulheres preferem esperar um pouco para contar sobre a gravidez pois 80% dos abortos espontâneos acontecem até 14 semanas.\n\nSe isto ocorrer com você converse com pessoas próximas pois sempre mexe com nossas emoções.\n\nVocê está se sentindo bem ou você tem alguma queixa?\n\na. Sentido bem\nb. Tenho queixa"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

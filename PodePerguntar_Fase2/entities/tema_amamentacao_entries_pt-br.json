@@ -1,0 +1,61 @@
+[
+  {
+    "value": "leitefraco",
+    "synonyms": [
+      "leitefraco",
+      "leite fraco",
+      "letra A",
+      "A",
+      "primeira opção",
+      "primeira opcao"
+    ]
+  },
+  {
+    "value": "dornamama",
+    "synonyms": [
+      "dornamama",
+      "dor na mama",
+      "letra c",
+      "C",
+      "terceira opcao",
+      "terceira opção"
+    ]
+  },
+  {
+    "value": "mamada",
+    "synonyms": [
+      "mamada",
+      "letra d",
+      "D",
+      "quarta opção",
+      "quarta opcao"
+    ]
+  },
+  {
+    "value": "peito",
+    "synonyms": [
+      "peito",
+      "seios",
+      "letra e",
+      "E",
+      "ultima opcao",
+      "ultima opção"
+    ]
+  },
+  {
+    "value": "aumentodaproducao",
+    "synonyms": [
+      "letra B",
+      "B",
+      "aumento da producao",
+      "aumento da produção",
+      "segunda opção",
+      "aumento de produção",
+      "aumento producao",
+      "aumento produção",
+      "aumento produçao",
+      "aumento producão",
+      "aumento de produçao"
+    ]
+  }
+]

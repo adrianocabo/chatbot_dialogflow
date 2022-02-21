@@ -1,0 +1,45 @@
+[
+  {
+    "value": "dornascostas",
+    "synonyms": [
+      "dornascostas",
+      "dor nas costas"
+    ]
+  },
+  {
+    "value": "sangramento",
+    "synonyms": [
+      "sangramento"
+    ]
+  },
+  {
+    "value": "febre",
+    "synonyms": [
+      "febre",
+      "alta temperatura"
+    ]
+  },
+  {
+    "value": "enjoo",
+    "synonyms": [
+      "enjoo",
+      "nausea",
+      "náusea"
+    ]
+  },
+  {
+    "value": "pressaoalta",
+    "synonyms": [
+      "pressaoalta",
+      "pressao alta"
+    ]
+  },
+  {
+    "value": "dordecabeca",
+    "synonyms": [
+      "dordecabeca",
+      "dor de cabeça",
+      "dor de cabeca"
+    ]
+  }
+]

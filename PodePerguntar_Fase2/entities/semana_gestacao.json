@@ -1,0 +1,9 @@
+{
+  "id": "2ceae911-f2d8-46f4-868d-2d4a63a5d78f",
+  "name": "semana_gestacao",
+  "isOverridable": true,
+  "isEnum": false,
+  "isRegexp": false,
+  "automatedExpansion": false,
+  "allowFuzzyExtraction": false
+}

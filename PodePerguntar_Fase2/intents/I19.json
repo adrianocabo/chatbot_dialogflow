@@ -1,0 +1,53 @@
+{
+  "id": "951cbfb2-1c00-46e4-bc42-9df046928710",
+  "name": "I19",
+  "auto": true,
+  "contexts": [
+    "P0-G0-yes-yes-followup",
+    "P0-G0-yes-followup",
+    "menu",
+    "no"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [
+        {
+          "name": "P0-G0-yes-yes-followup",
+          "lifespan": 2
+        },
+        {
+          "name": "P0-G0-yes-followup",
+          "lifespan": 2
+        },
+        {
+          "name": "menu",
+          "lifespan": 2
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "pt-br",
+          "speech": [
+            "Sobre qual assunto gostaria de falar? (digite o texto abaixo)\n\n• Desenvolvimento Gestação\n• Sintomas"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

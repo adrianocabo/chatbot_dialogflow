@@ -1,0 +1,39 @@
+[
+  {
+    "value": "letraa",
+    "synonyms": [
+      "A",
+      "amamento somento no peito",
+      "somento no peito",
+      "só no peito",
+      "letra a"
+    ]
+  },
+  {
+    "value": "letrab",
+    "synonyms": [
+      "B",
+      "letra b",
+      "dou mamadeira só quando preciso sair",
+      "mamadeira quando preciso sair"
+    ]
+  },
+  {
+    "value": "letrac",
+    "synonyms": [
+      "C",
+      "letra c",
+      "peito e mamadeira",
+      "dou mamadeira e peito regularmente"
+    ]
+  },
+  {
+    "value": "letrad",
+    "synonyms": [
+      "D",
+      "outro",
+      "nenhum",
+      "outra opcao"
+    ]
+  }
+]

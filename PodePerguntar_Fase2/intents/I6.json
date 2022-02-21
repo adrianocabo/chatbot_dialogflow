@@ -1,0 +1,40 @@
+{
+  "id": "5389f348-63ae-448a-a4d9-d53821ef3341",
+  "parentId": "f9a39ff9-b3b7-483d-b9d0-2452547599ff",
+  "rootParentId": "645ab511-abfd-44a3-aada-3380d55db548",
+  "name": "I6",
+  "auto": true,
+  "contexts": [
+    "P0-G0-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "P0.P0-G0.P0-G0-no",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "pt-br",
+          "speech": [
+            "OK. Só não esqueça de fazer seu pré-natal direitinho."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": [],
+  "endInteraction": true
+}

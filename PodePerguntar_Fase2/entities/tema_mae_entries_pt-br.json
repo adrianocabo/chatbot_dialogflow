@@ -1,0 +1,37 @@
+[
+  {
+    "value": "posparto",
+    "synonyms": [
+      "posparto",
+      "pos parto",
+      "Pós-parto",
+      "Pos-parto"
+    ]
+  },
+  {
+    "value": "amamentacao",
+    "synonyms": [
+      "amamentacao",
+      "amamentação",
+      "amamentar"
+    ]
+  },
+  {
+    "value": "bebe",
+    "synonyms": [
+      "bebe",
+      "bebê",
+      "bb",
+      "nenem"
+    ]
+  },
+  {
+    "value": "sair",
+    "synonyms": [
+      "sair",
+      "fechar",
+      "finalizar",
+      "encerrar"
+    ]
+  }
+]

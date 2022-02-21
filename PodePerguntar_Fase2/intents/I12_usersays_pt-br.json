@@ -1,0 +1,79 @@
+[
+  {
+    "id": "29ca2817-cfee-4570-89c6-575994085c8c",
+    "data": [
+      {
+        "text": "primeira",
+        "userDefined": false
+      },
+      {
+        "text": " opcao",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "cb6afd93-060c-4abc-a3ac-e539e5110e31",
+    "data": [
+      {
+        "text": "desenvolvimento",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "5239bdaf-4b84-4ed1-b405-de84314a6030",
+    "data": [
+      {
+        "text": "desenvolvimento ",
+        "userDefined": false
+      },
+      {
+        "text": "da",
+        "userDefined": false
+      },
+      {
+        "text": " gestação",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "e9247a91-4efd-4640-a8f9-9fa783dc0c43",
+    "data": [
+      {
+        "text": "letra a",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "ded55e32-32cd-47f7-b08d-e158194ffe48",
+    "data": [
+      {
+        "text": "A",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  }
+]

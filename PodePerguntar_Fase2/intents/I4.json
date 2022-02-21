@@ -1,0 +1,59 @@
+{
+  "id": "8977f44c-8f5e-44db-9947-42022e588102",
+  "parentId": "be4b910f-4032-4f7f-82dd-77081291dcd6",
+  "rootParentId": "645ab511-abfd-44a3-aada-3380d55db548",
+  "name": "I4",
+  "auto": true,
+  "contexts": [
+    "I3-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "P0.P0-M0.I2-custom.I3-custom",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "1d90d978-b4f2-4bd4-9956-5fdd6228001e",
+          "name": "tema-aumento",
+          "required": true,
+          "dataType": "@tema_aumento",
+          "value": "$tema-aumento",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [
+            {
+              "lang": "pt-br",
+              "value": "Antes de falar da sua produção de leite, preciso saber como seu bebê mama. \n\nDigita a letra correspondente abaixo: \n\nA. Amamento somente no peito. \nB. Dou mamadeira só quando preciso sair. \nC. Dou mamadeira e peito regularmente."
+            }
+          ],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "pt-br",
+          "speech": [
+            "A translactação é um método que serve para estimular a produção de leite materno.\n\nEsta técnica pode ser útil para mães que estão com baixa produção de leite e também para as que querem voltar a amamentar seus filhos.\n\nO tempo para aumentar a produção do leite pode variar bastante, mas não se preocupe caso demore mais que o esperado. Se o bebê mama algumas vezes por dia, a produção pode aumentar rapidamente."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

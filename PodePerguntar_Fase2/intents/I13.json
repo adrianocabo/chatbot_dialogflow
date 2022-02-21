@@ -1,0 +1,60 @@
+{
+  "id": "5e1be21c-fdaa-45b9-a3f7-f9bbd0a37291",
+  "parentId": "e2606e6c-b410-4f57-b0aa-7520d0a766f2",
+  "rootParentId": "645ab511-abfd-44a3-aada-3380d55db548",
+  "name": "I13",
+  "auto": true,
+  "contexts": [
+    "P0-G0-yes-no-followup",
+    "P0-G0-yes-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "P0.P0-G0.P0-G0-yes.P0-G0-yes-no.P0-G0-yes-no-A",
+      "affectedContexts": [
+        {
+          "name": "P0-G0-yes-followup",
+          "lifespan": 5
+        }
+      ],
+      "parameters": [
+        {
+          "id": "7d11c7bf-568e-4372-8380-0043a937f11f",
+          "name": "dt",
+          "required": false,
+          "dataType": "@sys.date",
+          "value": "#P0-G0-yes-followup.ultima-menstruacao",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "pt-br",
+          "speech": [
+            "Semana não configurada.\nFim do Case. Obrigado!"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

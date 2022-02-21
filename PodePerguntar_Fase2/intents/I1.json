@@ -1,0 +1,64 @@
+{
+  "id": "645ab511-abfd-44a3-aada-3380d55db548",
+  "name": "I1",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "input.welcome",
+      "affectedContexts": [
+        {
+          "name": "P0",
+          "lifespan": 5
+        },
+        {
+          "name": "P0-followup",
+          "lifespan": 2
+        }
+      ],
+      "parameters": [
+        {
+          "id": "6765287d-0524-4e4c-863a-a68a4b9dbc68",
+          "name": "nome",
+          "required": true,
+          "dataType": "@sys.given-name",
+          "value": "$nome",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [
+            {
+              "lang": "pt-br",
+              "value": "Olá, meu nome é Mia.\n\nSou uma robô virtual que orienta sobre pré-natal e pós-parto. Lembre-se que não sou humana\ne tenho limitações.\n\nAgora, vou fazer algumas perguntinhas para poder te orientar melhor.\n\nQual o seu nome?"
+            }
+          ],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "pt-br",
+          "speech": [
+            "Fico feliz em lhe ajudar, $nome. 😊\n\nVocê quer falar sobre ser:\nA. Mãe (bebê já nasceu)\nB. Gestante"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

@@ -1,0 +1,46 @@
+{
+  "id": "4a5ea20f-42f6-47a1-bf98-ddf5a5022922",
+  "parentId": "609d5454-e739-42e1-a451-b2289de0cfb4",
+  "rootParentId": "645ab511-abfd-44a3-aada-3380d55db548",
+  "name": "I18",
+  "auto": true,
+  "contexts": [
+    "P0-G0-yes-yes-A-B-followup",
+    "enjoo",
+    "queixa"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "P0.P0-G0.P0-G0-yes.P0-G0-yes-yes.P0-G0-yes-yes-A.P0-G0-yes-yes-A-B.P0-G0-yes-yes-A-B-no",
+      "affectedContexts": [
+        {
+          "name": "menu",
+          "lifespan": 5
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "pt-br",
+          "speech": [
+            "Tudo bem! Se quiser falar de outros assuntos digite: menu\n\nCaso não queira falar, obrigada pela confiança. Volte sempre que quiser."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

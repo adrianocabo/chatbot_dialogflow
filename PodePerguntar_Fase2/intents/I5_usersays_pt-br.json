@@ -1,0 +1,97 @@
+[
+  {
+    "id": "a929dc65-cf47-48f6-ab11-e2cdabec7f6f",
+    "data": [
+      {
+        "text": "sou gestante",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "6dbdd90e-fc65-4132-a4e3-0c0bad3af53a",
+    "data": [
+      {
+        "text": "bebê",
+        "userDefined": false
+      },
+      {
+        "text": " não nasceu",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "2b8626b4-338c-4f32-84fa-d99c9bbf809a",
+    "data": [
+      {
+        "text": "estou grávida",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "586b5723-3876-4723-aba6-acfe6a5b504b",
+    "data": [
+      {
+        "text": "grávida",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "8d3c24a5-95ae-458f-a894-6730261d94ad",
+    "data": [
+      {
+        "text": "gestante",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "f285d225-a1cf-492b-ab6d-f697b6269ebe",
+    "data": [
+      {
+        "text": "B",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 5,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "4333d0c9-9f3e-42d7-a239-5cc214e695f2",
+    "data": [
+      {
+        "text": "Letra b",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  }
+]

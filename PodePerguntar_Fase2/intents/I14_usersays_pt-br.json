@@ -1,0 +1,79 @@
+[
+  {
+    "id": "420d36ec-42ef-47fb-a1d9-162e51e4808b",
+    "data": [
+      {
+        "text": "tudo ",
+        "userDefined": false
+      },
+      {
+        "text": "bem",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "3b53467b-c06f-4f1c-add4-9a9643ac7650",
+    "data": [
+      {
+        "text": "estou ",
+        "userDefined": false
+      },
+      {
+        "text": "bem",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "ea1aab7d-beaf-4a59-a9a4-9601c743e3a4",
+    "data": [
+      {
+        "text": "sentindo ",
+        "userDefined": false
+      },
+      {
+        "text": "bem",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "87f67ffc-4c02-47e5-802f-f62ddc2e37dd",
+    "data": [
+      {
+        "text": "letra A",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "492078c8-9466-45eb-923f-030914587ea2",
+    "data": [
+      {
+        "text": "A",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  }
+]

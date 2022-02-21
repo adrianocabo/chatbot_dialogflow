@@ -1,0 +1,65 @@
+{
+  "id": "be4b910f-4032-4f7f-82dd-77081291dcd6",
+  "parentId": "1d7e2074-bbaa-4ddc-a471-39a54bf05b90",
+  "rootParentId": "645ab511-abfd-44a3-aada-3380d55db548",
+  "name": "I3",
+  "auto": true,
+  "contexts": [
+    "P0-M0-followup",
+    "I2-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "P0.P0-M0.I2-custom",
+      "affectedContexts": [
+        {
+          "name": "I3-followup",
+          "lifespan": 2
+        }
+      ],
+      "parameters": [
+        {
+          "id": "522021f0-8b01-4337-94cf-292c24ca67db",
+          "name": "tema-amamentacao",
+          "required": true,
+          "dataType": "@tema_amamentacao",
+          "value": "$tema-amamentacao",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [
+            {
+              "lang": "pt-br",
+              "value": "Obrigada, sua informação me ajudará a te orientar melhor. Espero poder lhe ajudar e tirar todas as suas dúvidas. Digite o tema que gostaria de falar. Um de cada vez, por favor :) \n\n• Pós-Parto \n• Amamentação \n• Bebê \n• Sair"
+            }
+          ],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "pt-br",
+          "speech": [
+            "Antes de falar da sua produção de leite, preciso saber como seu bebê mama.\n\nDigita a letra correspondente abaixo:\n\nA. Amamento somente no peito.\nB. Dou mamadeira só quando preciso sair.\nC. Dou mamadeira e peito regularmente."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

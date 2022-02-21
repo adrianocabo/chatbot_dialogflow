@@ -1,0 +1,46 @@
+{
+  "id": "47009f96-dd18-4cb2-92ab-312713951473",
+  "parentId": "609d5454-e739-42e1-a451-b2289de0cfb4",
+  "rootParentId": "645ab511-abfd-44a3-aada-3380d55db548",
+  "name": "I17",
+  "auto": true,
+  "contexts": [
+    "P0-G0-yes-yes-A-B-followup",
+    "enjoo",
+    "queixa"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "P0.P0-G0.P0-G0-yes.P0-G0-yes-yes.P0-G0-yes-yes-A.P0-G0-yes-yes-A-B.P0-G0-yes-yes-A-B-yes",
+      "affectedContexts": [
+        {
+          "name": "queixa",
+          "lifespan": 5
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "pt-br",
+          "speech": [
+            "Dicas para amenizar os enjoos:\n• Coma várias vezes ao dia (três refeições e dois lanches por dia);\n• Coma logo que acordar;\n• Evitar ficar muito tempo sem comer (máximo 3 horas);\n• Coma devagar e mastigar bem os alimentos;\n• Dê preferência a alimentos secos (pão, torradas e bolachas);\n• Evite alimentos gordurosos e temperado;\n• Evite doces com muito açúcar;\n• Beba bastante água;\n• Não escove os dentes logo ao acordar, pode ajudar, pois pela manhã o enjoo pode ser mais intenso."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

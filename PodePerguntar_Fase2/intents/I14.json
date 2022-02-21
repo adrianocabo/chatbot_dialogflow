@@ -1,0 +1,41 @@
+{
+  "id": "58da8cea-9908-417a-9239-8fd0c0073360",
+  "parentId": "9fe83a9d-9ba5-47da-8690-5f5162be1a7c",
+  "rootParentId": "645ab511-abfd-44a3-aada-3380d55db548",
+  "name": "I14",
+  "auto": true,
+  "contexts": [
+    "P0-G0-yes-yes-A-followup",
+    "yes"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "P0.P0-G0.P0-G0-yes.P0-G0-yes-yes.P0-G0-yes-yes-A.P0-G0-yes-yes-A-custom",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "pt-br",
+          "speech": [
+            "Que bom! Volte sempre que precisar 😊"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": [],
+  "endInteraction": true
+}

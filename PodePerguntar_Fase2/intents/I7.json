@@ -1,0 +1,69 @@
+{
+  "id": "2c9ad74e-b046-4c0d-83e0-b5d2557ddc45",
+  "parentId": "f9a39ff9-b3b7-483d-b9d0-2452547599ff",
+  "rootParentId": "645ab511-abfd-44a3-aada-3380d55db548",
+  "name": "I7",
+  "auto": true,
+  "contexts": [
+    "P0-G0-followup",
+    "P0"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "P0.P0-G0.P0-G0-yes",
+      "affectedContexts": [
+        {
+          "name": "P0-G0-yes-followup",
+          "lifespan": 5
+        },
+        {
+          "name": "P0",
+          "lifespan": 5
+        }
+      ],
+      "parameters": [
+        {
+          "id": "563b8d5c-7803-4cf3-828a-c04155f72b28",
+          "name": "ultima-menstruacao",
+          "required": true,
+          "dataType": "@sys.date",
+          "value": "$ultima-menstruacao",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [
+            {
+              "lang": "pt-br",
+              "value": "Legal, e quando foi sua última menstruação? Digite no formato dd/mm/aaaa. Vou dar apenas um EXEMPLO para facilitar: 03/04/2021.São dois números no dia, dois números no mês e quatro números no ano"
+            }
+          ],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "pt-br",
+          "speech": [
+            "#P0.nome, e agora me diga. Você possui PELO MENOS UMA das características listadas abaixo? digite sim ou não.\n\n• Diabetes\n• Doenças do coração\n• Anemia severa (hemoglobina abaixo 8,6 mmHg)\n• Pressão alta\n• Gestação atual de gêmeos\n• 2 ou mais abortos anteriores\n• Má formação em gestação anterior\n• Hipotiroidismo\n• Mais de 40 anos\n• Parto Prematuro anterior\n• Pré-eclâmpsia em gestação anterior"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

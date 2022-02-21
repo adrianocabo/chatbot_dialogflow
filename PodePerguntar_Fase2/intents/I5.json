@@ -1,0 +1,45 @@
+{
+  "id": "f9a39ff9-b3b7-483d-b9d0-2452547599ff",
+  "parentId": "645ab511-abfd-44a3-aada-3380d55db548",
+  "rootParentId": "645ab511-abfd-44a3-aada-3380d55db548",
+  "name": "I5",
+  "auto": true,
+  "contexts": [
+    "P0",
+    "P0-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "P0.P0-G0",
+      "affectedContexts": [
+        {
+          "name": "P0-G0-followup",
+          "lifespan": 2
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "pt-br",
+          "speech": [
+            "Ok. Para te orientar melhor, me diga: você lembra a data da sua última menstruação? \nDigite sim ou não."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

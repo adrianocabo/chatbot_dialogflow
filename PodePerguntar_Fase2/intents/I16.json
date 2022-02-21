@@ -1,0 +1,72 @@
+{
+  "id": "609d5454-e739-42e1-a451-b2289de0cfb4",
+  "parentId": "9fe83a9d-9ba5-47da-8690-5f5162be1a7c",
+  "rootParentId": "645ab511-abfd-44a3-aada-3380d55db548",
+  "name": "I16",
+  "auto": true,
+  "contexts": [
+    "P0-G0-yes-yes-A-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "P0.P0-G0.P0-G0-yes.P0-G0-yes-yes.P0-G0-yes-yes-A.P0-G0-yes-yes-A-B",
+      "affectedContexts": [
+        {
+          "name": "P0-G0-yes-yes-A-B-followup",
+          "lifespan": 2
+        },
+        {
+          "name": "enjoo",
+          "lifespan": 2
+        },
+        {
+          "name": "queixa",
+          "lifespan": 5
+        }
+      ],
+      "parameters": [
+        {
+          "id": "bd192b61-5285-4456-9d71-6e18c866acee",
+          "name": "queixa",
+          "required": true,
+          "dataType": "@queixa",
+          "value": "$queixa",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [
+            {
+              "lang": "pt-br",
+              "value": "Certo. Para que eu possa te ajudar da melhor forma, digite palavras curtas ou texto breves sobre sua queixa ou sintoma.\n\nAh, e escreva uma queixa de cada vez! Alguns exemplos: dor nas costas, sangramento ou febre."
+            }
+          ],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "pt-br",
+          "speech": [
+            "Se está com $queixa recomendo que procure um médico o quanto antes!"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

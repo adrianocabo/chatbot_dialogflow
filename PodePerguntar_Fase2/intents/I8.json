@@ -1,0 +1,45 @@
+{
+  "id": "8e8472cb-8fdd-4e81-b29f-1064a3608483",
+  "parentId": "2c9ad74e-b046-4c0d-83e0-b5d2557ddc45",
+  "rootParentId": "645ab511-abfd-44a3-aada-3380d55db548",
+  "name": "I8",
+  "auto": true,
+  "contexts": [
+    "P0-G0-yes-followup",
+    "P0"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "P0.P0-G0.P0-G0-yes.P0-G0-yes-yes",
+      "affectedContexts": [
+        {
+          "name": "P0-G0-yes-yes-followup",
+          "lifespan": 20
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "pt-br",
+          "speech": [
+            "De acordo com sua informação, você precisa estar bem atenta ao seu pré-natal pois talvez\nvocê precise de cuidados especiais :)\n\n#P0.nome, espero poder lhe ajudar e tirar todas as suas dúvidas.\n\nVamos lá. Agora digite o tema que gostaria de saber (um tema por vez):\n\nA. Desenvolvimento da gestação 🤰\nB. Sintomas durante a gestação"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

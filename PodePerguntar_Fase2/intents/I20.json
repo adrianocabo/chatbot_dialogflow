@@ -1,0 +1,49 @@
+{
+  "id": "eb14a0b5-b3cd-4f6e-b407-da246607dd90",
+  "parentId": "9fe83a9d-9ba5-47da-8690-5f5162be1a7c",
+  "rootParentId": "645ab511-abfd-44a3-aada-3380d55db548",
+  "name": "I20",
+  "auto": true,
+  "contexts": [
+    "P0-G0-yes-yes-A-followup",
+    "no"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "P0.P0-G0.P0-G0-yes.P0-G0-yes-yes.P0-G0-yes-yes-A.P0-G0-yes-yes-A-no",
+      "affectedContexts": [
+        {
+          "name": "menu",
+          "lifespan": 5
+        },
+        {
+          "name": "no",
+          "lifespan": 1
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "pt-br",
+          "speech": [
+            "Ok. Se quiser falar de outro tema digite menu."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

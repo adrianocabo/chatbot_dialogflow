@@ -1,0 +1,152 @@
+[
+  {
+    "id": "a5d2c8b5-ac69-488d-b16c-3ffef8c0fcc2",
+    "data": [
+      {
+        "text": "e",
+        "meta": "@tema_amamentacao",
+        "alias": "tema-amamentacao",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "d6ace8fc-efd3-40bb-a5ec-333ae96f6797",
+    "data": [
+      {
+        "text": "d",
+        "meta": "@tema_amamentacao",
+        "alias": "tema-amamentacao",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "91bb7408-22af-42c1-a768-d1ee0f33e76f",
+    "data": [
+      {
+        "text": "c",
+        "meta": "@tema_amamentacao",
+        "alias": "tema-amamentacao",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "469e790f-f4d0-43f9-97ad-512f974e9f74",
+    "data": [
+      {
+        "text": "b",
+        "meta": "@tema_amamentacao",
+        "alias": "tema-amamentacao",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "fd443ba2-93a6-4b79-b48c-16f9a4f97e03",
+    "data": [
+      {
+        "text": "a",
+        "meta": "@tema_amamentacao",
+        "alias": "tema-amamentacao",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "1d2983a0-b5f2-415b-91a4-a65b588cf7bd",
+    "data": [
+      {
+        "text": "peito",
+        "meta": "@tema_amamentacao",
+        "alias": "tema-amamentacao",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "43162a1e-f828-45e8-917f-d4042f7314e1",
+    "data": [
+      {
+        "text": "mamada",
+        "meta": "@tema_amamentacao",
+        "alias": "tema-amamentacao",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "29301d91-fb23-47bf-b4a2-cdcd2f160a2c",
+    "data": [
+      {
+        "text": "dor na mama",
+        "meta": "@tema_amamentacao",
+        "alias": "tema-amamentacao",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "e94e7286-45bd-414a-b49b-9ce9a0e8b973",
+    "data": [
+      {
+        "text": "aumento producao",
+        "meta": "@tema_amamentacao",
+        "alias": "tema-amamentacao",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "0e09b1ce-1dc0-46fe-a8ce-a45696990326",
+    "data": [
+      {
+        "text": "leite fraco",
+        "meta": "@tema_amamentacao",
+        "alias": "tema-amamentacao",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  }
+]

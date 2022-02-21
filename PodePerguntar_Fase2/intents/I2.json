@@ -1,0 +1,125 @@
+{
+  "id": "1d7e2074-bbaa-4ddc-a471-39a54bf05b90",
+  "parentId": "645ab511-abfd-44a3-aada-3380d55db548",
+  "rootParentId": "645ab511-abfd-44a3-aada-3380d55db548",
+  "name": "I2",
+  "auto": true,
+  "contexts": [
+    "P0-followup",
+    "P0"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "P0.P0-M0",
+      "affectedContexts": [
+        {
+          "name": "P0-M0-followup",
+          "lifespan": 1
+        },
+        {
+          "name": "I2-followup",
+          "lifespan": 1
+        }
+      ],
+      "parameters": [
+        {
+          "id": "58433c02-94ee-4eeb-818a-0785be36e9e3",
+          "name": "data-nascimento",
+          "required": true,
+          "dataType": "@sys.date",
+          "value": "$data-nascimento",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [
+            {
+              "lang": "pt-br",
+              "value": "Quando seu bebê nasceu? Se possível digitar no formato dd/mm/aaaa. \n\nVou dar apenas um EXEMPLO para facilitar: 03/04/2021.\n\nSão dois números no dia, dois números no mês e quatro números no ano."
+            }
+          ],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "18060161-8e5d-4274-8be5-ee34f4a26fea",
+          "name": "tema-mae",
+          "required": true,
+          "dataType": "@tema_mae",
+          "value": "$tema-mae",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [
+            {
+              "lang": "pt-br",
+              "value": "Obrigada, sua informação me ajudará a te orientar melhor.\n\nEspero poder lhe ajudar e tirar todas as suas dúvidas.\n\nDigite o tema que gostaria de falar. Um de cada vez, por favor :)\n\n• Pós-Parto\n• Amamentação\n• Bebê\n• Sair"
+            }
+          ],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "059ccd14-015e-4f96-825d-f3ce1bbd1f74",
+          "name": "tema-amamentacao",
+          "required": false,
+          "dataType": "@tema_amamentacao",
+          "value": "$tema-amamentacao",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "bcbfe92a-d9ee-48f8-a8d2-9936fdd4c3f8",
+          "name": "tema-aumento",
+          "required": false,
+          "dataType": "@tema_aumento",
+          "value": "$tema-aumento",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [
+            {
+              "lang": "pt-br",
+              "value": "Antes de falar da sua produção de leite, preciso saber como seu bebê mama.\n\nDigita a letra correspondente abaixo:\n\nA. Amamento somente no peito.\nB. Dou mamadeira só quando preciso sair.\nC. Dou mamadeira e peito regularmente."
+            },
+            {
+              "lang": "pt-br",
+              "value": "A translactação é um método que serve para estimular a produção de leite materno.\n\nEsta técnica pode ser útil para mães que estão com baixa produção de leite e também para as que querem voltar a amamentar seus filhos.\n\nO tempo para aumentar a produção do leite pode variar bastante, mas não se preocupe caso demore mais que o esperado. Se o bebê mama algumas vezes por dia, a produção pode aumentar rapidamente."
+            }
+          ],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "pt-br",
+          "speech": [
+            "Qual tema você gostaria de falar sobre amamentação? (dica: digite um tema por vez).\n\nA. Leite fraco\nB. Aumento de produção\nC. Dor na mama\nD. Mamada\nE. Peito"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

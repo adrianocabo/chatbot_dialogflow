@@ -1,0 +1,92 @@
+[
+  {
+    "id": "c3e23014-8292-40a8-92bf-4d1e6f18858d",
+    "data": [
+      {
+        "text": "primeira",
+        "userDefined": false
+      },
+      {
+        "text": " opção",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "7db94f69-fa40-4784-a484-ae422387a5e1",
+    "data": [
+      {
+        "text": "desenvolvimento ",
+        "userDefined": false
+      },
+      {
+        "text": "da",
+        "userDefined": false
+      },
+      {
+        "text": " gestação",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "d8ae9391-36e6-43f7-ac0d-46305f3d051f",
+    "data": [
+      {
+        "text": "desenvolvimento durante gestação",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "303014e7-b3a8-4067-b387-f6cf8e0c15ee",
+    "data": [
+      {
+        "text": "letra Adesenvolvimento",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "378553a2-48e6-40d6-8e8e-37ce3fde248e",
+    "data": [
+      {
+        "text": "letra A",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "82487d8c-6c6e-4484-98fd-c7a695dfac0c",
+    "data": [
+      {
+        "text": "A",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  }
+]

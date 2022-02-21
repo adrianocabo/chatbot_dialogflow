@@ -1,0 +1,182 @@
+[
+  {
+    "id": "2fb6c3ab-5497-4531-ac32-a83eaf303631",
+    "data": [
+      {
+        "text": "Estou com",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "febre",
+        "meta": "@queixa",
+        "alias": "queixa",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "9013d459-42c8-4040-877a-adb02a91daef",
+    "data": [
+      {
+        "text": "tenho sentido ",
+        "userDefined": false
+      },
+      {
+        "text": "enjoo",
+        "meta": "@queixa",
+        "alias": "queixa",
+        "userDefined": false
+      },
+      {
+        "text": " frequentemente",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "2cb82b37-21ed-4221-a80e-17f92e96525e",
+    "data": [
+      {
+        "text": "estou com",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "dores de cabeca",
+        "meta": "@queixa",
+        "alias": "queixa",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "ffd1cde0-fba5-48d2-b69e-98300875b1ee",
+    "data": [
+      {
+        "text": "Sinto ",
+        "userDefined": false
+      },
+      {
+        "text": "nause",
+        "meta": "@queixa",
+        "alias": "queixa",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "4a4c8c77-116f-4e79-8462-8ae5ab2a4ada",
+    "data": [
+      {
+        "text": "Tenho ",
+        "userDefined": false
+      },
+      {
+        "text": "dor de cabeça",
+        "meta": "@queixa",
+        "alias": "queixa",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "b373d4dc-baab-4398-868a-100db7767f42",
+    "data": [
+      {
+        "text": "não me sinto ",
+        "userDefined": false
+      },
+      {
+        "text": "bem",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "5014d5cb-ed5a-4bb4-baa0-4cda1d7bb872",
+    "data": [
+      {
+        "text": "não estou ",
+        "userDefined": false
+      },
+      {
+        "text": "bem",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "504b9e13-73b4-40aa-ba87-bf4cb7d4030a",
+    "data": [
+      {
+        "text": "tenho queixa",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "8d1ccfaa-8a59-4d11-9dcc-ee4b2b65cbfa",
+    "data": [
+      {
+        "text": "letra b",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "0af06e5a-ae7a-4ae2-b098-0ac0b2df9e3b",
+    "data": [
+      {
+        "text": "B",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  }
+]

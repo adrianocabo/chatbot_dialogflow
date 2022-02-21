@@ -1,0 +1,40 @@
+{
+  "id": "ca320c34-bc07-4533-b704-062f82c40ac5",
+  "parentId": "8e8472cb-8fdd-4e81-b29f-1064a3608483",
+  "rootParentId": "645ab511-abfd-44a3-aada-3380d55db548",
+  "name": "I10",
+  "auto": true,
+  "contexts": [
+    "P0-G0-yes-yes-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "P0.P0-G0.P0-G0-yes.P0-G0-yes-yes.P0-G0-yes-yes-B",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "pt-br",
+          "speech": [
+            "Fim do Case. Obrigado!"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": [],
+  "endInteraction": true
+}
